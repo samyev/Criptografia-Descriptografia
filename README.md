@@ -2,11 +2,15 @@
 
 ## Resumo
 
-Uma empresa quer transmitir dados por telefone, mas está preocupada com a possibilidade de seus telefones estarem grampeados. Ela pediu para você escrever um programa que criptografe os dados de modo que estes possam ser transmitidos mais seguramente. Todos os dados são transmitidos como inteiros de quatro dígitos. Você deve conseguir ler um inteiro de quatro dígitos inserido pelo usuário e criptografá-lo desta maneira: Substitua cada dígito pelo resultado da adição de 6 ao dígito e obtendo o resto depois da divisão do novo valor por 10. Troque então o primeiro dígito pelo terceiro e o segundo dígito pelo quarto. Então imprima o inteiro criptografado. Escreva um programa principal que receba como entrada um número inteiro de quatro dígitos criptografados e o descriptografe para formar o número original.
+Uma empresa quer transmitir dados por telefone, mas está preocupada com a possibilidade de seus telefones estarem grampeados. 
+
+Ela pediu para você escrever um programa que criptografe os dados de modo que estes possam ser transmitidos mais seguramente. Todos os dados são transmitidos como inteiros de quatro dígitos. Você deve conseguir ler um inteiro de quatro dígitos inserido pelo usuário e criptografá-lo desta maneira: Substitua cada dígito pelo resultado da adição de 6 ao dígito e obtendo o resto depois da divisão do novo valor por 10. 
+
+Troque então o primeiro dígito pelo terceiro e o segundo dígito pelo quarto. Então imprima o inteiro criptografado. Escreva um programa principal que receba como entrada um número inteiro de quatro dígitos criptografados e o descriptografe para formar o número original.
 
 ## Como rodar o código
 
-Este código foi subdivido em duas partes, um código para criptografar e outro para descriptografar os dígitos de entrada do usuário. O código de criptografia é exportado para o código de descriptografia com o método “from <arquivo> import <função>”. Para rodar o programa, primeiramente a máquina terá que ter instalado python3, em seguida, após descomprimir a pasta “Criptografia-Descriptografia” os arquivos estarão no diretório “/Criptografia-Descriptografia” ao abrir a pasta diretamente em um terminal, clicando na pasta com o botão direito do mouse aparecerá a opção “abrir no terminal” , ou você pode abrir a pasta  utilizando o comando:
+Este código foi subdivido em duas partes, um código para criptografar e outro para descriptografar os dígitos de entrada do usuário. O código de criptografia é exportado para o código de descriptografia com o método “from <arquivo> import <função>”.  Para rodar o programa, primeiramente a máquina terá que ter instalado python3, em seguida, após descomprimir a pasta “Criptografia-Descriptografia” os arquivos estarão no diretório “/Criptografia-Descriptografia” ao abrir a pasta diretamente em um terminal, clicando na pasta com o botão direito do mouse aparecerá a opção “abrir no terminal” , ou você pode abrir a pasta  utilizando o comando:
 
 <img src="images/cd.png" width="400">
 

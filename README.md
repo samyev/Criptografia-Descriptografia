@@ -8,16 +8,22 @@ Uma empresa quer transmitir dados por telefone, mas está preocupada com a possi
 
 Este código foi subdivido em duas partes, um código para criptografar e outro para descriptografar os dígitos de entrada do usuário. O código de criptografia é exportado para o código de descriptografia com o método “from <arquivo> import <função>”. Para rodar o programa, primeiramente a máquina terá que ter instalado python3, em seguida, após descomprimir a pasta “Criptografia-Descriptografia” os arquivos estarão no diretório “/Criptografia-Descriptografia” ao abrir a pasta diretamente em um terminal, clicando na pasta com o botão direito do mouse aparecerá a opção “abrir no terminal” , ou você pode abrir a pasta  utilizando o comando:
 
-![Código explicaivo](images/cd.png)
+<img src="images/cd.png" width="10px">
 
 se a pasta “Criptografia-Descriptografia” estiver dentro do seu diretório home use:
 
-![Código explicaivo](images/cd(1).png)
+<img src="images/cd(1).png" width="10px">
 
 
 em seguida, para rodar o código use:
 
-![Código explicaivo](images/carbom.png) ou ![Código explicaivo](images/cd(2).png)
+<img src="images/carbon(1).png" width="400">
+
+              
+              ou 
+              
+
+<img src="images/cd(2).png" width="10px">
 
 dependendo do comando padrão para rodar o python3 na sua máquina o comando pode mudar.
 

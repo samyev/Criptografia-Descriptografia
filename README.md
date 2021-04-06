@@ -19,6 +19,7 @@ em seguida, para rodar o código use:
 
 <img src="images/codigo.png" width="400">
 
+                 ou
 
 <img src="images/cd(2).png" width="400">
 

@@ -17,10 +17,7 @@ se a pasta “Criptografia-Descriptografia” estiver dentro do seu diretório h
 
 em seguida, para rodar o código use:
 
-<img src="images/carbon(1).png" width="400">
-
-              
-              ou 
+<img src="images/codigo.png" width="400">
 
 
 <img src="images/cd(2).png" width="400">
